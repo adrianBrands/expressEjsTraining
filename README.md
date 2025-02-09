@@ -1,1 +1,1 @@
-# Small project using Express with EJS
+# Small BackEnd project using Express with EJS
